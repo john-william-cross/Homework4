@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5e4141bf-a0df-4173-88c0-47f3672031bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VariableAdder/edu/dmacc/codedsm/hw4/VariableAdder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VariableAdder/edu/dmacc/codedsm/hw4/VariableAdder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/dmacc/codedsm/hw4/VariableAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/dmacc/codedsm/hw4/VariableAdder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/hw4/VariableAdder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -45,7 +43,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="775" />
+    <option name="x" value="381" />
+    <option name="y" value="26" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -108,15 +107,16 @@
       <updated>1549896754425</updated>
       <workItem from="1549896757146" duration="15267000" />
       <workItem from="1549937328043" duration="3836000" />
-      <workItem from="1550071164784" duration="1624000" />
+      <workItem from="1550071164784" duration="2608000" />
+      <workItem from="1550080920023" duration="146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20727000" />
+    <option name="totallyTimeSpent" value="21857000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="718" y="24" width="974" height="1047" extended-state="0" />
+    <frame x="381" y="26" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.28196722" />
@@ -128,7 +128,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2308534" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2308534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -136,7 +136,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32881355" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32822758" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3283582" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -161,7 +161,7 @@
     <entry file="file://$PROJECT_DIR$/src/edu/dmacc/codedsm/hw4/VariableAdder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

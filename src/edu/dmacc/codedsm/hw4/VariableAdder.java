@@ -14,6 +14,7 @@ public class VariableAdder {
         int result = sum.FIRST_INT + sum.secondInt + thirdInt;
 
         System.out.println(result);
+
     }
 }
 
