@@ -2,8 +2,8 @@ package edu.dmacc.codedsm.hw4;
 
 public class VariableAdder {
 
-    private final int FIRST_INT = 1;
-    private static int secondInt = 2;
+    final int FIRST_INT = 1;
+    int secondInt = 2;
 
     public static void main(String[] args) {
 
@@ -11,7 +11,7 @@ public class VariableAdder {
 
         VariableAdder sum = new VariableAdder();
 
-        int result = sum.FIRST_INT + secondInt + thirdInt;
+        int result = sum.FIRST_INT + sum.secondInt + thirdInt;
 
         System.out.println(result);
     }
